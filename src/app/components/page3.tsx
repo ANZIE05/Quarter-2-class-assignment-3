@@ -12,7 +12,7 @@ function Page3() {
                     Use the web clipper extension, available on Chrome and Firefox, to save web pages<br/> or take screenshots as notes.
 
                     </p>
-                    <button className='bg-[#4F9CF9] w-[219px] h-[63px] rounded-lg p-5 mt-[60px] hover:bg-blue-700'>Let's Go -&gt;</button>
+                    <button className='bg-[#4F9CF9] w-[219px] h-[63px] rounded-lg p-5 mt-[60px] hover:bg-blue-700'>Let&apos;s Go -&gt;</button>
                 </div>
             </div>
 
